@@ -10,3 +10,4 @@ gradle/wrapper
 debug.log
 credentials.properties
 .allure/
+settings.gradle
