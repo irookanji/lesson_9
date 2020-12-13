@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 
 public class SelenideSearchTests extends TestBase {
     @Test
-    @DisplayName("Successfully search Selenide to bing")
+    @DisplayName("Successful Selenide search in Bing")
     void bingSearchTest() {
         // Открыть bing
         step("Open bing.com", () -> open("https://www.bing.com/"));
